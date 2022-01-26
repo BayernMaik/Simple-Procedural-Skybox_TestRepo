@@ -1,0 +1,25 @@
+{
+  "name": "com.bayernmaik.simpleproceduralskybox",
+  "version": "1.0.0",
+  "displayName": "Simple Procedural Skybox",
+  "description": "This is an example package",
+  "unity": "2020.3",
+  "unityRelease": "26f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "10.8.1"
+  },
+  "keywords": [
+    "Procedural",
+    "Skybox",
+    "Shader"
+  ],
+  "author": {
+    "name": "BayernMaik",
+    "email": "",
+    "url": ""
+  },
+  "type": "sample"
+}
